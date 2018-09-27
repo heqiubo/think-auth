@@ -2,7 +2,7 @@
 The ThinkPHP5 Auth Package
 
 ## 安装
-> composer require 5ini99/think-auth
+> composer require heqiubo/think-auth
 
 ## 配置
 ### 公共配置
