@@ -1,18 +1,18 @@
 {
-    "name": "5ini99/think-auth",
-    "description": "auth package for thinkphp5",
-    "homepage": "https://github.com/5ini99/think-auth",
+    "name": "heqiubo/think-auth",
+    "description": "auth package for thinkphp5.1",
+    "homepage": "https://github.com/heqiubo/think-auth",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
     "version": "1.0.1",
     "authors": [
         {
-            "name": "xiaobo.sun",
-            "email": "xiaobo.sun@qq.com"
+            "name": "qb",
+            "email": "344055687@qq.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/5ini99/think-auth/issues"
+        "issues": "https://github.com/heqiubo/think-auth/issues"
     },
     "require": {
         "php": ">=5.4.0"
